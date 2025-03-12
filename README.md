@@ -1,6 +1,5 @@
 # Flipkart_Dashboard
 
-Description
 This project is a Flipkart Dashboard that provides data visualization and analysis for various product categories. The dashboard offers insights into different product categories like Baby, Books, Food, Furniture, Laptops, Mobiles, and more, using clean data.
 
 Features
